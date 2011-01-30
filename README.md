@@ -1,4 +1,4 @@
-# Pathfinding using a Genetic Algorithm
+# PyPr - A Python 3 library for Prowl
 ##What?
 This is a Python 3k library for the awesome Prowl API. Prowl is a notification app for iOS, like Growl for OS X.
 
